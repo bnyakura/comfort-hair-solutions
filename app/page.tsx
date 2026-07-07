@@ -4,7 +4,7 @@ import { WhyChoose } from "@/components/why-choose"
 import { Services } from "@/components/services"
 import { HowItWorks } from "@/components/how-it-works"
 import { Gallery } from "@/components/gallery"
-import { Testimonials } from "@/components/testimonials"
+import { Faqs } from "@/components/faqs"
 import { About } from "@/components/about"
 import { CTA } from "@/components/cta"
 import { Footer } from "@/components/footer"
@@ -17,7 +17,7 @@ export default function Home() {
       <Hero />
       <Services />
       <Gallery />
-      <Testimonials />
+      <Faqs />
       <CTA />
       <Footer />
       <WhatsAppButton />

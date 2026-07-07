@@ -24,7 +24,7 @@ export const NAV_LINKS = [
   { label: 'Home', href: '/' },
   { label: 'Services', href: '/#services' },
   { label: 'Gallery', href: '/#gallery' },
-  { label: 'Testimonials', href: '/#testimonials' },
+  { label: 'FAQs', href: '/#faqs' },
   { label: 'Why Choose Us', href: '/why-choose-us' },
   { label: 'Contact', href: '/#contact' },
 ]
