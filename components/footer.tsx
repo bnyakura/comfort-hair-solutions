@@ -1,12 +1,14 @@
 import Image from 'next/image'
 import { Phone, MapPin } from 'lucide-react'
 import { NAV_LINKS, SOCIALS, PHONE_DISPLAY, PHONE_RAW, waLink } from '@/lib/site'
-import { TikTokIcon, SnapchatIcon, WhatsAppIcon, InstagramIcon } from '@/components/social-icons'
+import { TikTokIcon, SnapchatIcon, WhatsAppIcon, InstagramIcon, FacebookIcon, XIcon } from '@/components/social-icons'
 
 const socialIcon = {
   Instagram: InstagramIcon,
   TikTok: TikTokIcon,
+  Facebook: FacebookIcon,
   Snapchat: SnapchatIcon,
+  X: XIcon,
 } as const
 
 export function Footer() {

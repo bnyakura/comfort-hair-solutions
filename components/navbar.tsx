@@ -4,13 +4,16 @@ import { useEffect, useState } from 'react'
 import Image from 'next/image'
 import { Menu, X } from 'lucide-react'
 import { NAV_LINKS, SOCIALS, waLink } from '@/lib/site'
-import { TikTokIcon, SnapchatIcon, InstagramIcon } from '@/components/social-icons'
+import { TikTokIcon, SnapchatIcon, InstagramIcon, FacebookIcon, XIcon } from '@/components/social-icons'
 
 const socialIcon = {
   Instagram: InstagramIcon,
   TikTok: TikTokIcon,
+  Facebook: FacebookIcon,
   Snapchat: SnapchatIcon,
+  X: XIcon,
 } as const
+
 
 export function Navbar() {
   const [scrolled, setScrolled] = useState(false)
