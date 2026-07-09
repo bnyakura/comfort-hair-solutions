@@ -91,10 +91,10 @@ export function Hero() {
               Book on WhatsApp
             </a>
             <a
-              href="#services"
+              href="/about"
               className="group inline-flex items-center justify-center gap-2 rounded-full border border-gold/40 px-7 py-4 text-sm font-semibold text-foreground transition-colors hover:bg-card"
             >
-              View Services
+              About
               <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
             </a>
           </motion.div>
