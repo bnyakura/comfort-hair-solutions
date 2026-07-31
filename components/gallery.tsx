@@ -8,12 +8,12 @@ import { Reveal } from '@/components/reveal'
 import Link from 'next/link'
 
 const images = [
-  { src: '/images/4.jpeg', alt: 'Fresh clean fade haircut', span: 'sm:row-span-2' },
-  { src: '/images/18.jpeg', alt: 'Neat maintained locs', span: '' },
-  { src: '/images/23.jpeg', alt: 'Sharply shaped beard', span: '' },
-  { src: '/images/10.jpeg', alt: 'Protective braids styling', span: 'sm:row-span-2' },
-  { src: '/images/7.jpeg', alt: 'Blonde tint colour treatment', span: '' },
-  { src: '/images/12.jpeg', alt: 'Mobile barber setup at home', span: '' },
+  { src: '/images/4.jpeg', alt: '', span: 'sm:row-span-2' },
+  { src: '/images/18.jpeg', alt: '', span: '' },
+  { src: '/images/25.jpeg', alt: '', span: '' },
+  { src: '/images/10.jpeg', alt: '', span: 'sm:row-span-2' },
+  { src: '/images/7.jpeg', alt: '', span: '' },
+  { src: '/images/12.jpeg', alt: '', span: '' },
 ]
 
 export function Gallery() {

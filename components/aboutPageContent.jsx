@@ -56,7 +56,7 @@ export function AboutPageContent() {
       <div className="mx-auto w-full max-w-lg">
         <div className="overflow-hidden rounded-2xl border-2 border-gold/30 bg-card">
           <Image
-            src="/images/78.jpeg"
+            src="/images/F1.jpeg"
             alt="Comfort Hair Solutions Barber"
             width={700}
             height={850}

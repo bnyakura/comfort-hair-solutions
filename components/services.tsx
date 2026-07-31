@@ -25,7 +25,7 @@ const services = [
     desc: 'Professional colouring and blonde treatments with a flawless finish.',
   },
   {
-    image: '/images/55.jpeg',
+    image: '/images/12.jpeg',
     name: 'Instant Dreadlocks',
     desc: 'Instant dreadlock installation with a clean, natural finish.',
   },
@@ -35,7 +35,7 @@ const services = [
     desc: 'Protective styles and premium braiding done with precision.',
   },
   {
-    image: '/images/66.jpeg',
+    image: '/images/47.jpeg',
     name: 'Hair Care & Products',
     desc: 'Professional products for healthy hair and scalp maintenance.',
   },
