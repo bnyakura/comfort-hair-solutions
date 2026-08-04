@@ -47,7 +47,7 @@ export function WhyChoose() {
             Why Choose Us
           </span>
           <h2 className="mt-4 font-heading text-3xl font-bold text-balance sm:text-5xl">
-            The Comfort Hair Solutions difference
+            The Comfort Hair Solution difference
           </h2>
           <p className="mt-4 text-muted-foreground leading-relaxed">
             Premium grooming built around your time, your comfort and your style.

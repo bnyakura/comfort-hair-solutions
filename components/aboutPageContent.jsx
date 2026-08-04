@@ -18,7 +18,7 @@ export function AboutPageContent() {
     <Reveal>
       <div className="max-w-xl">
         <span className="text-sm font-semibold uppercase tracking-[0.35em] text-gold">
-          ABOUT COMFORT HAIR SOLUTIONS
+          ABOUT COMFORT HAIR SOLUTION
         </span>
 
         <h1 className="mt-5 font-heading text-5xl font-bold uppercase leading-none md:text-6xl xl:text-7xl">
@@ -32,7 +32,7 @@ export function AboutPageContent() {
         <div className="mt-10 space-y-7 text-lg leading-9 text-muted-foreground">
           <p>
             With years of experience providing premium mobile barber services,
-            Comfort Hair Solutions has built a reputation for precision,
+            Comfort Hair Solution has built a reputation for precision,
             consistency and exceptional customer care.
           </p>
 
@@ -57,7 +57,7 @@ export function AboutPageContent() {
         <div className="overflow-hidden rounded-2xl border-2 border-gold/30 bg-card">
           <Image
             src="/images/F1.jpeg"
-            alt="Comfort Hair Solutions Barber"
+            alt="Comfort Hair Solution Barber"
             width={700}
             height={850}
             className="aspect-[4/5] w-full object-cover"
@@ -83,7 +83,7 @@ export function AboutPageContent() {
         <div className="absolute inset-y-0 right-0 w-full lg:w-1/2">
           <Image
             src="/images/7.jpeg"
-            alt="Comfort Hair Solutions"
+            alt="Comfort Hair Solution"
             fill
             className="object-cover object-center"
           />
@@ -109,7 +109,7 @@ export function AboutPageContent() {
 
             <div className="mt-10 space-y-7 text-lg leading-9 text-white/80">
               <p>
-                At Comfort Hair Solutions, grooming is more than a haircut.
+                At Comfort Hair Solution, grooming is more than a haircut.
                 It's about confidence, professionalism and expressing your
                 personal style.
               </p>

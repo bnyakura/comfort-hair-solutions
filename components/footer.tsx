@@ -20,7 +20,7 @@ export function Footer() {
             <div className="flex items-center gap-3">
               <Image
                 src="/logo.jpeg"
-                alt="Comfort Hair Solutions logo"
+                alt="Comfort Hair Solution logo"
                 width={56}
                 height={56}
                 className="h-12 w-12 rounded-md object-contain"
@@ -104,7 +104,7 @@ export function Footer() {
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 sm:flex-row">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Comfort Hair Solutions. All rights reserved.
+            © {new Date().getFullYear()} Comfort Hair Solution. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground">Cape Town&apos;s Premium Mobile Barber</p>
         </div>

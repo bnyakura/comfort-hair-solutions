@@ -33,10 +33,10 @@ export function Navbar() {
       }`}
     >
       <nav className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 sm:px-6 lg:px-8">
-        <a href="/" className="flex items-center gap-3" aria-label="Comfort Hair Solutions home">
+        <a href="/" className="flex items-center gap-3" aria-label="Comfort Hair Solution home">
           <Image
             src="/logo.jpeg"
-            alt="Comfort Hair Solutions logo"
+            alt="Comfort Hair Solution logo"
             width={52}
             height={52}
             className="h-11 w-11 rounded-md object-contain"

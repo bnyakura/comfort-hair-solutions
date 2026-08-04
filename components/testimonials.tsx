@@ -15,7 +15,7 @@ const testimonials = [
     photo: '/client-2.png',
     rating: 5,
     review:
-      'My locs have never looked better. Super professional, on time, and the retwist held perfectly for weeks. Highly recommend Comfort Hair Solutions.',
+      'My locs have never looked better. Super professional, on time, and the retwist held perfectly for weeks. Highly recommend Comfort Hair Solution.',
   },
   {
     name: 'David Petersen',

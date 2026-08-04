@@ -2,11 +2,11 @@ export const PHONE_DISPLAY = '+27 68 757 8242'
 export const PHONE_RAW = '27687578242'
 
 export const WHATSAPP_MESSAGE =
-  "Hi Comfort Hair Solutions, I'd like to book an appointment."
+  "Hi Comfort Hair Solution, I'd like to book an appointment."
 
 export function waLink(service?: string) {
   const message = service
-    ? `Hi Comfort Hair Solutions, I'd like to book a ${service} appointment.`
+    ? `Hi Comfort Hair Solution, I'd like to book a ${service} appointment.`
     : WHATSAPP_MESSAGE
   return `https://wa.me/${PHONE_RAW}?text=${encodeURIComponent(message)}`
 }

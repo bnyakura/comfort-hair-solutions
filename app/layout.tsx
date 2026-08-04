@@ -21,8 +21,8 @@ const siteUrl = 'https://comforthairsolutions.co.za'
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: 'Comfort Hair Solutions | Cape Town\'s Premium Mobile Barber',
-    template: '%s | Comfort Hair Solutions',
+    default: 'Comfort Hair Solution | Cape Town\'s Premium Mobile Barber',
+    template: '%s | Comfort Hair Solution',
   },
   description:
     'Professional mobile barber in Cape Town. Premium haircuts, fades, locs maintenance, braids, hair tints and grooming delivered to your home, office or preferred location. Book on WhatsApp.',
@@ -35,25 +35,25 @@ export const metadata: Metadata = {
     'fades',
     'beard grooming',
     'mobile grooming',
-    'Comfort Hair Solutions',
+    'Comfort Hair Solution',
   ],
-  authors: [{ name: 'Comfort Hair Solutions' }],
-  creator: 'Comfort Hair Solutions',
+  authors: [{ name: 'Comfort Hair Solution' }],
+  creator: 'Comfort Hair Solution',
   generator: 'v0.app',
   alternates: { canonical: '/' },
   openGraph: {
     type: 'website',
     locale: 'en_ZA',
     url: siteUrl,
-    siteName: 'Comfort Hair Solutions',
-    title: 'Comfort Hair Solutions | Cape Town\'s Premium Mobile Barber',
+    siteName: 'Comfort Hair Solution',
+    title: 'Comfort Hair Solution | Cape Town\'s Premium Mobile Barber',
     description:
       'Premium grooming delivered to your home, office or preferred location in Cape Town. Book your appointment on WhatsApp.',
-    images: [{ url: '/hero-barber.png', width: 1200, height: 630, alt: 'Comfort Hair Solutions mobile barber' }],
+    images: [{ url: '/hero-barber.png', width: 1200, height: 630, alt: 'Comfort Hair Solution mobile barber' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Comfort Hair Solutions | Cape Town\'s Premium Mobile Barber',
+    title: 'Comfort Hair Solution | Cape Town\'s Premium Mobile Barber',
     description:
       'Premium grooming delivered to your home, office or preferred location in Cape Town. Book your appointment on WhatsApp.',
     images: ['/hero-barber.png'],
@@ -72,7 +72,7 @@ export const viewport: Viewport = {
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'HairSalon',
-  name: 'Comfort Hair Solutions',
+  name: 'Comfort Hair Solution',
   description:
     'Premium mobile barber service in Cape Town offering haircuts, fades, locs maintenance, braids, hair tints and grooming at your location.',
   image: `${siteUrl}/hero-barber.png`,
