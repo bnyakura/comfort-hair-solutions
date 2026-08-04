@@ -19,7 +19,7 @@ export function About() {
             <div className="relative aspect-[4/5] overflow-hidden rounded-3xl border border-border">
               <Image
                 src="/images/99.jpeg"
-                alt="Comfort Hair Solutions professional barber"
+                alt="Comfort Hair Solution professional barber"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover"
@@ -42,7 +42,7 @@ export function About() {
             Grooming crafted around your comfort
           </h2>
           <p className="mt-6 leading-relaxed text-muted-foreground">
-            Comfort Hair Solutions was built on a simple belief: premium grooming
+            Comfort Hair Solution was built on a simple belief: premium grooming
             should come to you. As a dedicated mobile barber in Cape Town, we
             combine real passion for the craft with an obsession for detail — so
             every cut, retwist and style leaves you looking and feeling your best.

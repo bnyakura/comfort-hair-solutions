@@ -4,9 +4,9 @@ import { Navbar } from '@/components/navbar'
 import { WhyChoose } from '@/components/why-choose'
 
 export const metadata = {
-  title: 'Why Choose Us | Comfort Hair Solutions',
+  title: 'Why Choose Us | Comfort Hair Solution',
   description:
-    'Discover why Comfort Hair Solutions is Cape Town’s trusted mobile barber service.',
+    'Discover why Comfort Hair Solution is Cape Town’s trusted mobile barber service.',
 }
 
 export default function WhyChooseUsPage() {

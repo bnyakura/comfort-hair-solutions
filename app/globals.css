@@ -2,9 +2,9 @@
 @import 'tw-animate-css';
 @import 'shadcn/tailwind.css';
 
-/* Comfort Hair Solutions - dark luxury theme */
+/* Comfort Hair Solution - dark luxury theme */
 
-/* Comfort Hair Solutions — dark luxury theme */
+/* Comfort Hair Solution — dark luxury theme */
 
 @custom-variant dark (&:is(.dark *));
 
