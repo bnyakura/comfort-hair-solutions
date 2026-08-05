@@ -82,7 +82,7 @@ export function AboutPageContent() {
         {/* Background Image */}
         <div className="absolute inset-y-0 right-0 w-full lg:w-1/2">
           <Image
-            src="/images/7.jpeg"
+            src="/images/26.jpeg"
             alt="Comfort Hair Solution"
             fill
             className="object-cover object-center"

@@ -6,7 +6,7 @@ import { AnimatePresence, motion } from 'motion/react'
 import { ChevronLeft, ChevronRight, X } from 'lucide-react'
 
 
-const skipped = [1,2,8,14, 17, 21,22,23,29,30,31,34,39,40,41,42,43,49,51,54,55,58,61,65,66,67,73,79,83,85,86,88,93, 94, 95, 96, 97,98, 100] // Images that don't exist or are not to be displayed
+const skipped = [1,2,8,14, 7,17, 21,22,23,29,30,31,34,39,40,41,42,43,49,51,54,55,58,61,65,66,67,73,75,79,83,85,86,88,93, 94, 95, 96, 97,98, 100] // Images that don't exist or are not to be displayed
 
 const images = Array.from({ length: 100 }, (_, i) => i + 1)
   .filter((num) => !skipped.includes(num))
