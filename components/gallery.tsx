@@ -12,8 +12,8 @@ const images = [
   { src: '/images/18.jpeg', alt: '', span: '' },
   { src: '/images/25.jpeg', alt: '', span: '' },
   { src: '/images/10.jpeg', alt: '', span: 'sm:row-span-2' },
-  { src: '/images/7.jpeg', alt: '', span: '' },
-  { src: '/images/12.jpeg', alt: '', span: '' },
+  { src: '/images/101.jpeg', alt: '', span: '' },
+  { src: '/images/100.jpeg', alt: '', span: '' },
 ]
 
 export function Gallery() {
