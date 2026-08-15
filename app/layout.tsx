@@ -49,14 +49,14 @@ export const metadata: Metadata = {
     title: 'Comfort Hair Solution | Cape Town\'s Premium Mobile Barber',
     description:
       'Premium grooming delivered to your home, office or preferred location in Cape Town. Book your appointment on WhatsApp.',
-    images: [{ url: '/hero-barber.png', width: 1200, height: 630, alt: 'Comfort Hair Solution mobile barber' }],
+    images: [{ url: 'public/logo.jpeg', width: 1200, height: 630, alt: 'Comfort Hair Solution mobile barber' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Comfort Hair Solution | Cape Town\'s Premium Mobile Barber',
     description:
       'Premium grooming delivered to your home, office or preferred location in Cape Town. Book your appointment on WhatsApp.',
-    images: ['/hero-barber.png'],
+    images: ['public/logo.jpeg'],
   },
   robots: {
     index: true,
@@ -75,7 +75,7 @@ const jsonLd = {
   name: 'Comfort Hair Solution',
   description:
     'Premium mobile barber service in Cape Town offering haircuts, fades, locs maintenance, braids, hair tints and grooming at your location.',
-  image: `${siteUrl}/hero-barber.png`,
+  image: `${siteUrl}/public/logo.jpeg`,
   url: siteUrl,
   telephone: '+27687578242',
   priceRange: '$$',
